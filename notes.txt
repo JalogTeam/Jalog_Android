@@ -1,0 +1,5 @@
+Jotta laitteessa debuggaus onnistuu:
+Developer options
+  * Stay awake
+  * USB debugging
+  
